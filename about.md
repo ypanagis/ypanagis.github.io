@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me
 
-### More Information
+### Current position
 
-A place to include any other types of information that you'd like to include about yourself.
+* Data expert at the excellent, [iCourts Centre of Excellence for International Courts](http://jura.ku.dk/icourts), University of Copenhagen, Faculty of Law
+
+### Education
+
+* PhD Computer Engineering, 2006, from University of Patras, [Computer Engineering and Informatics Department](http://www.ceid.upatras.gr)  
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+`ypanagis` followed by `@gmail.com` 
