@@ -12,7 +12,7 @@ Some information about me
 
 ### Education
 
-* PhD Computer Engineering, 2006, from University of Patras, [Computer Engineering and Informatics Department](http://www.ceid.upatras.gr)  
+* PhD Computer Engineering, 2006, from University of Patras, [Computer Engineering and Informatics Department](http://www.ceid.upatras.gr/en)  
 
 ### Contact me
 
