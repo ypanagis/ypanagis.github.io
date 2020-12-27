@@ -16,4 +16,4 @@ Some information about me
 
 ### Contact me
 
-`ypanagis` followed by `@gmail.com` 
+`ypanagis<at>@gmail.com` 
